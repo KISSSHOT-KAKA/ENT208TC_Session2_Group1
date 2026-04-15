@@ -102,25 +102,51 @@ Our project is powered by high-performance, compact hardware for low-latency aud
 │   └── 📄 main_ui.py       # Desktop assistant interface
 └── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
 
-## 🤝 Acknowledgments / 致谢
-
+🤝 Acknowledgments / 致谢
 We express our sincere gratitude to our mentors for their invaluable guidance:
 我们衷心感谢以下导师对本项目的支持与指导：
 
-- **Bogdan Marculescu** & **Stefan Seedorf** (Module Leaders)
-- **Kai Liu** & **Victor Perez** (Pathfinders)
+<div class="mentors" style="display: flex; gap: 20px;">
+<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
+<b>👨‍🏫 Bogdan Marculescu</b> (Module Leader)
+</div>
+<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
+<b>👨‍🏫 Stefan Seedorf</b> (Module Leader)
+</div>
+<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
+<b>👨‍🏫 Kai Liu</b> (Pathfinder)
+</div>
+<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
+<b>👨‍🏫 Victor Perez</b> (Pathfinder)
+</div>
+</div>
 
----
+👥 The Team / 团队成员
+<div class="team" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px;">
+<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
+<div class="role-icon">🧑‍💻</div>
+<b>Chengren Pang</b>
+<p>Team Leader &
 
-## 👥 The Team / 团队成员
 
-* **Chengren Pang** - *Team Leader & Algorithm Engineer*
-* **[Team Member Name]** - *Software Developer*
-* **[Team Member Name]** - *Hardware & Documentation*
+Algorithm Engineer</p>
+</div>
+<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
+<div class="role-icon">⚙️</div>
+<b>[Team Member Name]</b>
+<p>Software Developer</p>
+</div>
+<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
+<div class="role-icon">📑</div>
+<b>[Team Member Name]</b>
+<p>Hardware &
 
----
+
+Documentation</p>
+</div>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
-  <p>© 2026 X Space - ENT208TC Group 1. Built with ❤️ and AI.</p>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter" />
+<p>© 2026 X Space - ENT208TC Group 1. Built with ❤️ and AI.</p>
 </div>
