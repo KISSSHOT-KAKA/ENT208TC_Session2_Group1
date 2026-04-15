@@ -1,93 +1,103 @@
-# 🎙️ On-computer Voice Assistant
-> **ENT208TC Session 2 Group 1** | **Team: X Space** 🚀
-
 <div align="center">
-  <img src="Cat_Waving.gif" alt="Campus Cat" width="160"/>
-  <p><i>Building a smarter campus, one voice at a time.</i></p>
-  
-  <p>
-    <b><a href="#-english">English</a></b> | 
-    <b><a href="#-中文版">中文版</a></b> | 
-    <b><a href="#-software-features">Software Features</a></b> | 
-    <b><a href="#-acknowledgments">Acknowledgments</a></b>
-  </p>
+
+<img src="[PATH_TO_GENERATED_BANNER]" width="900" alt="On-computer Voice Assistant Banner"/>
+
+# 🎙️ On-computer Voice Assistant
+### 🚀 Team: X Space | ENT208TC - Session 2 Group 1
+
+[![Project Status: Active](https://img.shields.io/badge/Status-In--Development-yellow?style=for-the-badge&logo=github)](https://github.com/)
+[![Hardware: M5Stack](https://img.shields.io/badge/Hardware-M5Stick%20Atom%20S3%20R-orange?style=for-the-badge&logo=espressif)](https://docs.m5stack.com/en/core/atom_s3)
+[![Software: Python](https://img.shields.io/badge/Language-Python%203.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Course: ENT208TC](https://img.shields.io/badge/Course-ENT208TC-red?style=for-the-badge)](https://www.xjtlu.edu.cn)
+
+---
+
+**“Empowering desktop interaction with the sound of your voice.”**
+**“用声音赋能桌面交互，记录成长的每一步。”**
+
+<div class="nav" style="border-radius: 5px; background-color: #f6f8fa; padding: 10px;">
+  <a href="#-english-overview">🇬🇧 Overview</a> • 
+  <a href="#-中文项目概览">🇨🇳 项目概览</a> • 
+  <a href="#-software-features">🛠️ Software</a> • 
+  <a href="#-hardware-stack">⚙️ Hardware</a> • 
+  <a href="#-progress-timeline">📈 Progress</a> • 
+  <a href="#-acknowledgments">🤝 Acknowledgments</a>
+</div>
+
 </div>
 
 ---
 
-## 🛠️ Software Features
+## 🛠️ Software Features / 功能实现
 
-> 🚀 **Status: In Active Development**
+> 🚀 **Current Development Status & Conceptual Vision**
 
-- [x] **Core Framework**: Basic speech command recognition infrastructure.
-- [ ] **CV Module**: Real-time "Campus Cat" detection algorithm 🐾.
-- [ ] **UI/UX**: Interactive desktop assistant interface.
-- [ ] **Navigation**: Integrated path-finding services.
+<div align="center">
+  <img src="[PATH_TO_GENERATED_UI]" width="400" alt="Conceptual UI Design"/>
+  <p><i>🚧 Concept UI Wireframe (To be continued...)</i></p>
+</div>
+
+- [x] **Core Framework**: Basic speech command recognition infrastructure. (语音指令识别基础框架)
+- [ ] **CV Module**: Real-time "Campus Cat" detection algorithm 🐾. (校园猫咪实时检测算法)
+- [ ] **UI/UX**: Interactive desktop assistant interface. (语音助手 UI 界面交互)
+- [ ] **Navigation**: Integrated path-finding services. (路径导航集成)
 
 ---
 
-## 🇬🇧 English
+## 🇬🇧 English Overview
 
-### 📖 Project Introduction
-This is the official repository for **Team X Space** in the **ENT208TC** module. Our project, the **On-computer Voice Assistant**, aims to push the boundaries of Human-Computer Interaction (HCI). By leveraging Natural Language Processing (NLP) and speech recognition, we are creating a seamless local assistant for desktop environments.
+### 📖 Introduction
+This is the official repository for **Team X Space** in the **ENT208TC** module. This project, the **On-computer Voice Assistant**, aims to create a highly responsive, intelligent local assistant. By integrating advanced **NLP**, **Computer Vision**, and **Hardware Interaction**, we bridge the gap between physical inputs and desktop control.
 
 * **Course**: ENT208TC
-* **Project**: On-computer Voice Assistant
+* **Team Name**: X Space
 * **Group ID**: Session 2 - Group 1
 
 ### ⚙️ Hardware Stack
-Our assistant isn't just software; it's powered by specialized hardware:
-* **Controller**: M5Stick Atom S3 R
-* **Audio Module**: Echo Base
+Our project is powered by high-performance, compact hardware for low-latency audio processing:
 
-### 📁 Structure
-- 📂 **`Evidences/`**: Weekly progress, meeting minutes, and milestones.
-- 📂 **`Weekly Tasks/`**: Weekly assignments and team feedback.
-- 📂 **`Software Implementation/`**: (🚧 WIP) Core logic and architecture.
+<div align="center">
+  <img src="[PATH_TO_GENERATED_HARDWARE_PHOTO]" width="300" alt="M5Stick Atom S3 R + Echo Base Setup"/>
+  <p><i>M5Stick Atom S3 R + Echo Base Setup</i></p>
+</div>
+
+* **Core Controller**: `M5Stick Atom S3 R` (ESP32-S3 based)
+* **Audio Base**: `Echo Base` (Integrated Speaker & Mic)
 
 [⬆ Back to Top](#-on-computer-voice-assistant)
 
 ---
 
-## 🇨🇳 中文版
+## 🇨🇳 中文项目概览
 
 ### 📖 项目简介
 欢迎来到 **X Space** 小组的开源仓库！本项目为 **ENT208TC** 课程的团队项目 —— **On-computer Voice Assistant (桌面语音助手)**。
 
-我们旨在利用先进的自然语言处理 (NLP) 与语音识别技术，开发一款智能的本地语音助手，实现流畅的交互体验。
+我们旨在利用先进的自然语言处理 (NLP)、计算机视觉 (CV) 与语音识别技术，开发一款智能的本地语音助手。通过硬件与软件的深度联动，实现流畅的交互体验并提升校园生活的便捷度。
+
 * **课程名称**: ENT208TC
-* **项目名称**: 桌面语音助手 (On-computer Voice Assistant)
+* **小组名称**: X Space
 * **小组编号**: Session 2 - Group 1
 
 ### ⚙️ 硬件设备
-本项目结合了 M5Stack 系列硬件以增强音频处理能力：
-* **核心控制设备**: M5Stick Atom S3 R
-* **音频扩展模块**: Echo Base
+本项目结合了实体硬件以增强音频处理与物理交互能力：
+* **核心控制设备**: `M5Stick Atom S3 R`
+* **音频扩展模块**: `Echo Base`
 
-### 📁 仓库结构
-- 📂 **`Evidences/`**: 记录每周进度、会议记录与里程碑。
-- 📂 **`Weekly Tasks/`**: 存放每周任务分配及成员完成情况。
-- 📂 **`Software Implementation/`**: (🚧 建设中) 软件架构与核心代码。
+### 📈 Progress Timeline / 项目进度图
 
-[⬆ 返回顶部](#-on-computer-voice-assistant)
+- [x] **Week 1-3**: 🟢 Project Setup & Requirement Analysis (项目启动与需求分析)
+- [ ] **Week 4-6**: 🟡 Hardware Driver Integration & Basic UI (硬件驱动集成与初步UI)
+- [ ] **Week 7-9**: 🔵 NLP Model Training & Command Mapping (NLP模型训练与指令映射)
+- [ ] **Week 10-12**: 🔴 CV Integration & Final Optimization (视觉集成与最终优化)
 
----
-
-## 🤝 Acknowledgments
-
-We would like to express our sincere gratitude to our mentors for their guidance:
-- **Bogdan Marculescu** & **Stefan Seedorf** (Module Leaders)
-- **Kai Liu** & **Victor Perez** (Pathfinders)
-
----
-
-## 👥 Team Members
-* **Chengren Pang** (Team Leader)
-* [Name] (Developer)
-* [Name] (Hardware/Evidence)
-
----
-<div align="center">
-  <p>© 2026 ENT208TC Group 1. Built with ❤️ and AI.</p>
-  <b>“探索语音交互的无限可能。” —— X Space</b>
-</div>
+### 📁 Repository Map
+```text
+.
+├── 📂 Evidences            # Weekly growth & Meeting minutes
+│   └── 📑 Meeting_Minutes  # Meeting records
+├── 📂 Weekly Tasks        # Task assignments & Feedback
+├── 📂 Source_Code         # 🚧 Core Implementation (To be continued)
+│   ├── 📄 voice_engine.py  # Speech recognition logic
+│   └── 📄 main_ui.py       # Desktop assistant interface
+└── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
