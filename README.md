@@ -101,3 +101,26 @@ Our project is powered by high-performance, compact hardware for low-latency aud
 │   ├── 📄 voice_engine.py  # Speech recognition logic
 │   └── 📄 main_ui.py       # Desktop assistant interface
 └── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
+
+## 🤝 Acknowledgments / 致谢
+
+We express our sincere gratitude to our mentors for their invaluable guidance:
+我们衷心感谢以下导师对本项目的支持与指导：
+
+- **Bogdan Marculescu** & **Stefan Seedorf** (Module Leaders)
+- **Kai Liu** & **Victor Perez** (Pathfinders)
+
+---
+
+## 👥 The Team / 团队成员
+
+* **Chengren Pang** - *Team Leader & Algorithm Engineer*
+* **[Team Member Name]** - *Software Developer*
+* **[Team Member Name]** - *Hardware & Documentation*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <p>© 2026 X Space - ENT208TC Group 1. Built with ❤️ and AI.</p>
+</div>
