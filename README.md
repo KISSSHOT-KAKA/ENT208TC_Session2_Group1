@@ -1,11 +1,10 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38&v=1" width="1000" />
-</p>
+![X Space Banner](https://img.shields.io/badge/X%20Space-On--computer%20Voice%20Assistant-33b5e5?style=for-the-badge&labelColor=000&padding=50)
 
 # 🎙️ On-computer Voice Assistant
 ### 🚀 ENT208TC - Session 2 Group 1
+</div>
 
 [![Project Status: Active](https://img.shields.io/badge/Status-In--Development-yellow?style=for-the-badge&logo=github)](https://github.com/)
 [![Hardware: M5Stack](https://img.shields.io/badge/Hardware-M5Stick%20Atom%20S3%20R-orange?style=for-the-badge&logo=espressif)](https://docs.m5stack.com/en/core/atom_s3)
