@@ -88,7 +88,7 @@ Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
 │   ├── 📄 voice_engine.py  # Speech recognition logic
 │   └── 📄 main_ui.py       # Desktop assistant interface
 └── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
-
+```
 ---
 
 ## 🤝 Acknowledgments / 致谢
