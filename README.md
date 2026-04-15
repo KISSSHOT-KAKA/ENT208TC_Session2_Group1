@@ -143,10 +143,9 @@ We express our sincere gratitude to our mentors for their invaluable guidance an
 
 <div align="center">
 
-![X Space Banner](https://img.shields.io/badge/X%20Space-On--computer%20Voice%20Assistant-33b5e5?style=for-the-badge&labelColor=000&padding=50)
-
-</div>
-
   <p><b>© 2026 X Space - ENT208TC Group 1</b></p>
   <p><i>Built with ❤️, Python, and M5Stack</i></p>
+
+![X Space Banner](https://img.shields.io/badge/X%20Space-On--computer%20Voice%20Assistant-33b5e5?style=for-the-badge&labelColor=000&padding=50)
+
 </div>
