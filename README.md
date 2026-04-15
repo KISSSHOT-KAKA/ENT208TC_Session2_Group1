@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="[PATH_TO_GENERATED_BANNER]" width="900" alt="On-computer Voice Assistant Banner"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38" width="1000" />
 
 # 🎙️ On-computer Voice Assistant
-### 🚀 Team: X Space | ENT208TC - Session 2 Group 1
+### 🚀 ENT208TC - Session 2 Group 1
 
 [![Project Status: Active](https://img.shields.io/badge/Status-In--Development-yellow?style=for-the-badge&logo=github)](https://github.com/)
 [![Hardware: M5Stack](https://img.shields.io/badge/Hardware-M5Stick%20Atom%20S3%20R-orange?style=for-the-badge&logo=espressif)](https://docs.m5stack.com/en/core/atom_s3)
@@ -15,14 +15,14 @@
 **“Empowering desktop interaction with the sound of your voice.”**
 **“用声音赋能桌面交互，记录成长的每一步。”**
 
-<div class="nav" style="border-radius: 5px; background-color: #f6f8fa; padding: 10px;">
+<p align="center">
   <a href="#-english-overview">🇬🇧 Overview</a> • 
   <a href="#-中文项目概览">🇨🇳 项目概览</a> • 
   <a href="#-software-features">🛠️ Software</a> • 
   <a href="#-hardware-stack">⚙️ Hardware</a> • 
   <a href="#-progress-timeline">📈 Progress</a> • 
   <a href="#-acknowledgments">🤝 Acknowledgments</a>
-</div>
+</p>
 
 </div>
 
@@ -33,8 +33,8 @@
 > 🚀 **Current Development Status & Conceptual Vision**
 
 <div align="center">
-  <img src="[PATH_TO_GENERATED_UI]" width="400" alt="Conceptual UI Design"/>
-  <p><i>🚧 Concept UI Wireframe (To be continued...)</i></p>
+  <img src="Cat_Waving.gif" width="120" />
+  <p><i>🚧 Software System in Active Development...</i></p>
 </div>
 
 - [x] **Core Framework**: Basic speech command recognition infrastructure. (语音指令识别基础框架)
@@ -47,22 +47,16 @@
 ## 🇬🇧 English Overview
 
 ### 📖 Introduction
-This is the official repository for **Team X Space** in the **ENT208TC** module. This project, the **On-computer Voice Assistant**, aims to create a highly responsive, intelligent local assistant. By integrating advanced **NLP**, **Computer Vision**, and **Hardware Interaction**, we bridge the gap between physical inputs and desktop control.
+This project for the **ENT208TC** module focuses on creating a responsive, intelligent local assistant. By integrating **NLP**, **Computer Vision**, and **M5Stack hardware**, we aim to bridge the gap between physical triggers and desktop automation.
 
 * **Course**: ENT208TC
 * **Team Name**: X Space
 * **Group ID**: Session 2 - Group 1
 
 ### ⚙️ Hardware Stack
-Our project is powered by high-performance, compact hardware for low-latency audio processing:
-
-<div align="center">
-  <img src="[PATH_TO_GENERATED_HARDWARE_PHOTO]" width="300" alt="M5Stick Atom S3 R + Echo Base Setup"/>
-  <p><i>M5Stick Atom S3 R + Echo Base Setup</i></p>
-</div>
-
-* **Core Controller**: `M5Stick Atom S3 R` (ESP32-S3 based)
-* **Audio Base**: `Echo Base` (Integrated Speaker & Mic)
+Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
+* **Core Controller**: `M5Stick Atom S3 R`
+* **Audio Base**: `Echo Base` (High-sensitivity Mic & Speaker)
 
 [⬆ Back to Top](#-on-computer-voice-assistant)
 
@@ -71,18 +65,11 @@ Our project is powered by high-performance, compact hardware for low-latency aud
 ## 🇨🇳 中文项目概览
 
 ### 📖 项目简介
-欢迎来到 **X Space** 小组的开源仓库！本项目为 **ENT208TC** 课程的团队项目 —— **On-computer Voice Assistant (桌面语音助手)**。
-
-我们旨在利用先进的自然语言处理 (NLP)、计算机视觉 (CV) 与语音识别技术，开发一款智能的本地语音助手。通过硬件与软件的深度联动，实现流畅的交互体验并提升校园生活的便捷度。
+欢迎来到 **X Space** 小组的开源仓库！本项目致力于开发一款智能本地语音助手。通过硬件与软件的深度联动（NLP + CV），实现流畅的交互体验并提升校园生活的便捷度。
 
 * **课程名称**: ENT208TC
 * **小组名称**: X Space
 * **小组编号**: Session 2 - Group 1
-
-### ⚙️ 硬件设备
-本项目结合了实体硬件以增强音频处理与物理交互能力：
-* **核心控制设备**: `M5Stick Atom S3 R`
-* **音频扩展模块**: `Echo Base`
 
 ### 📈 Progress Timeline / 项目进度图
 
@@ -97,56 +84,7 @@ Our project is powered by high-performance, compact hardware for low-latency aud
 ├── 📂 Evidences            # Weekly growth & Meeting minutes
 │   └── 📑 Meeting_Minutes  # Meeting records
 ├── 📂 Weekly Tasks        # Task assignments & Feedback
-├── 📂 Source_Code         # 🚧 Core Implementation (To be continued)
+├── 📂 Source_Code         # 🚧 Core Implementation
 │   ├── 📄 voice_engine.py  # Speech recognition logic
 │   └── 📄 main_ui.py       # Desktop assistant interface
 └── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
-
-🤝 Acknowledgments / 致谢
-We express our sincere gratitude to our mentors for their invaluable guidance:
-我们衷心感谢以下导师对本项目的支持与指导：
-
-<div class="mentors" style="display: flex; gap: 20px;">
-<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
-<b>👨‍🏫 Bogdan Marculescu</b> (Module Leader)
-</div>
-<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
-<b>👨‍🏫 Stefan Seedorf</b> (Module Leader)
-</div>
-<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
-<b>👨‍🏫 Kai Liu</b> (Pathfinder)
-</div>
-<div class="mentor-card" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #fafbfc;">
-<b>👨‍🏫 Victor Perez</b> (Pathfinder)
-</div>
-</div>
-
-👥 The Team / 团队成员
-<div class="team" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px;">
-<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
-<div class="role-icon">🧑‍💻</div>
-<b>Chengren Pang</b>
-<p>Team Leader &
-
-
-Algorithm Engineer</p>
-</div>
-<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
-<div class="role-icon">⚙️</div>
-<b>[Team Member Name]</b>
-<p>Software Developer</p>
-</div>
-<div class="team-member" style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; text-align: center; background-color: #fff;">
-<div class="role-icon">📑</div>
-<b>[Team Member Name]</b>
-<p>Hardware &
-
-
-Documentation</p>
-</div>
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter" />
-<p>© 2026 X Space - ENT208TC Group 1. Built with ❤️ and AI.</p>
-</div>
