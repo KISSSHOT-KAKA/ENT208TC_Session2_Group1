@@ -65,7 +65,7 @@
 ---
 
 ## 👥 团队成员 (Team)
-- **Chengren Pang** (Team Member)
+- **Chengren Pang** (Team Leader)
 - 
 
 ---
