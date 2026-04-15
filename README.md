@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=33b5e5&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38" width="1000" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38&v=1" width="1000" />
+</p>
 
 # 🎙️ On-computer Voice Assistant
 ### 🚀 ENT208TC - Session 2 Group 1
@@ -140,9 +142,10 @@ We express our sincere gratitude to our mentors for their invaluable guidance an
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
-  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38&v=1" width="1000" />
+</p>
+
   <p><b>© 2026 X Space - ENT208TC Group 1</b></p>
   <p><i>Built with ❤️, Python, and M5Stack</i></p>
 </div>
