@@ -38,7 +38,7 @@
 </div>
 
 - [x] **Core Framework**: Basic speech command recognition infrastructure. (语音指令识别基础框架)
-- [ ] **CV Module**: Real-time "Campus Cat" detection algorithm 🐾. (校园猫咪实时检测算法)
+- [x] **CV Module**: Real-time "Campus Cat" detection algorithm 🐾. (校园猫咪实时检测算法)
 - [ ] **UI/UX**: Interactive desktop assistant interface. (语音助手 UI 界面交互)
 - [ ] **Navigation**: Integrated path-finding services. (路径导航集成)
 
@@ -47,16 +47,18 @@
 ## 🇬🇧 English Overview
 
 ### 📖 Introduction
-This project for the **ENT208TC** module focuses on creating a responsive, intelligent local assistant. By integrating **NLP**, **Computer Vision**, and **M5Stack hardware**, we aim to bridge the gap between physical triggers and desktop automation.
-
-* **Course**: ENT208TC
-* **Team Name**: X Space
-* **Group ID**: Session 2 - Group 1
+This project for the **ENT208TC** module focuses on creating a responsive, intelligent local assistant. By integrating **NLP**, **Computer Vision**, and **M5Stack hardware**, we aim to bridge the gap between physical triggers and desktop automation. Our core mission includes voice-driven productivity and a specific "Campus Cat" detection module to enhance campus interaction.
 
 ### ⚙️ Hardware Stack
-Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
-* **Core Controller**: `M5Stick Atom S3 R`
-* **Audio Base**: `Echo Base` (High-sensitivity Mic & Speaker)
+Our project leverages the ESP32-S3 ecosystem for low-latency processing:
+* **Core Controller**: `M5Stick Atom S3 R` (High-performance ESP32-S3)
+* **Audio Base**: `Echo Base` (Equipped with high-sensitivity Mic & Speaker)
+
+### 📈 Progress Timeline
+- [x] **Week 1-3**: Project Setup & Requirement Analysis
+- [x] **Week 4-6**: Hardware Driver Integration & Basic UI
+- [ ] **Week 7-9**: NLP Model Training & Command Mapping
+- [ ] **Week 10-12**: CV Integration & Final Optimization
 
 [⬆ Back to Top](#-on-computer-voice-assistant)
 
@@ -65,18 +67,20 @@ Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
 ## 🇨🇳 中文项目概览
 
 ### 📖 项目简介
-欢迎来到 **X Space** 小组的开源仓库！本项目致力于开发一款智能本地语音助手。通过硬件与软件的深度联动（NLP + CV），实现流畅的交互体验并提升校园生活的便捷度。
+欢迎来到 **X Space** 小组的开源仓库！本项目致力于开发一款智能本地语音助手。通过硬件与软件的深度联动（NLP + CV），实现流畅的交互体验。我们不仅关注桌面自动化指令，还特别开发了“校园猫咪识别”功能，旨在提升校园生活的趣味性与便捷度。
 
-* **课程名称**: ENT208TC
-* **小组名称**: X Space
-* **小组编号**: Session 2 - Group 1
+### ⚙️ 硬件架构
+本项目基于 ESP32-S3 生态系统进行开发，确保低延迟的音频与图像处理：
+* **核心控制器**: `M5Stick Atom S3 R` (高性能 ESP32-S3 主控)
+* **音频底座**: `Echo Base` (内置高灵敏度麦克风与扬声器)
 
-### 📈 Progress Timeline / 项目进度图
+### 📈 项目进度图
+- [x] **Week 1-3**: 🟢 项目启动与需求分析
+- [x] **Week 4-6**: 🟡 硬件驱动集成与初步 UI 设计
+- [ ] **Week 7-9**: 🔵 NLP 模型训练与指令映射
+- [ ] **Week 10-12**: 🔴 视觉算法集成与最终优化
 
-- [x] **Week 1-3**: 🟢 Project Setup & Requirement Analysis (项目启动与需求分析)
-- [ ] **Week 4-6**: 🟡 Hardware Driver Integration & Basic UI (硬件驱动集成与初步UI)
-- [ ] **Week 7-9**: 🔵 NLP Model Training & Command Mapping (NLP模型训练与指令映射)
-- [ ] **Week 10-12**: 🔴 CV Integration & Final Optimization (视觉集成与最终优化)
+---
 
 ### 📁 Repository Map
 ```text
