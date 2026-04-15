@@ -88,3 +88,57 @@ Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
 │   ├── 📄 voice_engine.py  # Speech recognition logic
 │   └── 📄 main_ui.py       # Desktop assistant interface
 └── 📄 Cat_Waving.gif      # Our Campus Mascot 🐾
+
+---
+
+## 🤝 Acknowledgments / 致谢
+
+<p align="left">
+We express our sincere gratitude to our mentors for their invaluable guidance and support throughout the development of this project:
+</p>
+<p align="left">
+我们衷心感谢以下导师对本项目的支持与指导：
+</p>
+
+| Role (角色) | Mentor (导师) |
+| :--- | :--- |
+| **Module Leader** | 👨‍🏫 Bogdan Marculescu |
+| **Module Leader** | 👨‍🏫 Stefan Seedorf |
+| **Pathfinder** | 👨‍🏫 Kai Liu |
+| **Pathfinder** | 👨‍🏫 Victor Perez |
+
+---
+
+## 👥 The Team / 团队成员
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/manager.png" width="40"/><br />
+      <b>Chengren Pang</b><br />
+      <sub>Team Leader &<br />Algorithm Engineer</sub>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/programming.png" width="40"/><br />
+      <b>[Member Name]</b><br />
+      <sub>Software<br />Developer</sub>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/circuit.png" width="40"/><br />
+      <b>[Member Name]</b><br />
+      <sub>Hardware &<br />Documentation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  
+  <p><b>© 2026 X Space - ENT208TC Group 1</b></p>
+  <p><i>Built with ❤️, Python, and M5Stack</i></p>
+</div>
