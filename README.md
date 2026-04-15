@@ -79,7 +79,7 @@ Our project leverages the ESP32-S3 ecosystem for low-latency audio processing:
 - [ ] **Week 10-12**: 🔴 CV Integration & Final Optimization (视觉集成与最终优化)
 
 ### 📁 Repository Map
-```text
+text
 .
 ├── 📂 Evidences            # Weekly growth & Meeting minutes
 │   └── 📑 Meeting_Minutes  # Meeting records
