@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38" width="1000" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=33b5e5&height=200&section=header&text=X%20Space&fontSize=90&animation=fadeIn&fontAlignY=38" width="1000" />
 
 # 🎙️ On-computer Voice Assistant
 ### 🚀 ENT208TC - Session 2 Group 1
