@@ -45,42 +45,6 @@
 
 ---
 
-## 🧩 Recommended Library Stack / 技术选型建议（Atom S3 R + 桌面语音助手）
-
-### 1) Device Side (Atom S3 R / ESP32-S3)
-- **ESP-SR**: Wake word + on-device speech recognition capability, best ecosystem fit with ESP32-S3.
-- **ESP-ADF**: Audio capture, codec handling, and stream pipeline support.
-- **arduino-audio-tools**: Practical option when using Arduino workflow for I2S/audio pipeline.
-
-### 2) Desktop ASR (Speech-to-Text)
-- **faster-whisper**: Strong local accuracy and mature community support.
-- **Vosk**: Lightweight offline recognition with good real-time performance.
-- **sherpa-onnx**: Flexible offline streaming ASR deployment.
-
-### 3) Wake Word (Desktop Optional)
-- **Porcupine**: Fast integration and production-grade keyword spotting.
-- **openWakeWord**: Open-source and customizable for project-specific wake words.
-
-### 4) TTS (Text-to-Speech)
-- **Piper**: Good quality/latency balance for offline local TTS.
-- **Coqui TTS**: Strong extensibility and model customization (heavier runtime).
-- **edge-tts**: High-quality online voices if network access is acceptable.
-
-### 5) Dialogue & Orchestration
-- **Ollama + (LangChain or LlamaIndex)** for local intent handling, tool calls, and multi-turn conversation.
-- For an MVP, use a simpler chain first: **ASR → Rules/LLM → TTS**.
-
-### 6) Device–Desktop Communication
-- **pyserial** (Python) / **serialport** (Node.js): preferred for direct serial communication.
-- **paho-mqtt** / **mqtt.js**: recommended when scaling to multi-device architecture.
-
-### ✅ Suggested Fastest MVP Combination
-- **Device**: ESP-SR + ESP-ADF
-- **Desktop**: faster-whisper + Piper + pyserial
-- **Optional wake word**: Porcupine (faster integration) or openWakeWord (more customizable)
-
----
-
 ## 🇬🇧 English Overview
 
 ### 📖 Introduction
