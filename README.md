@@ -122,19 +122,49 @@ We express our sincere gratitude to our mentors for their invaluable guidance an
       <br />
       <img src="https://img.icons8.com/fluency/48/000000/manager.png" width="40"/><br />
       <b>Chengren Pang</b><br />
-      <sub>Team Leader &<br />Algorithm Engineer</sub>
+      <sub>Project Leader &<br />Engineering Manager<br /><i>(工程经理 / 技术主管)</i></sub>
     </td>
     <td align="center" width="33%">
       <br />
       <img src="https://img.icons8.com/fluency/48/000000/programming.png" width="40"/><br />
-      <b>[Member Name]</b><br />
-      <sub>Software<br />Developer</sub>
+      <b>Hengyu Wan</b><br />
+      <sub>Full-Stack Developer &<br />Project Supervisor<br /><i>(全栈开发工程师 / 项目主管)</i></sub>
     </td>
     <td align="center" width="33%">
       <br />
-      <img src="https://img.icons8.com/fluency/48/000000/circuit.png" width="40"/><br />
-      <b>[Member Name]</b><br />
-      <sub>Hardware &<br />Documentation</sub>
+      <img src="https://img.icons8.com/fluency/48/000000/bullish.png" width="40"/><br />
+      <b>Zihang Zeng</b><br />
+      <sub>Market Insights<br />Analyst<br /><i>(市场洞察分析师)</i></sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/books.png" width="40"/><br />
+      <b>Chenyi Zhuang</b><br />
+      <sub>Knowledge Management<br />Specialist<br /><i>(知识管理专家)</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/design.png" width="40"/><br />
+      <b>Jinkun Zhou</b><br />
+      <sub>Visual Interaction<br />Designer<br /><i>(视觉交互设计师)</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/creativity.png" width="40"/><br />
+      <b>Tianze Xu</b><br />
+      <sub>Creative Assets<br />Specialist<br /><i>(创意资产专家)</i></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="3">
+      <br />
+      <img src="https://img.icons8.com/fluency/48/000000/creativity.png" width="40"/><br />
+      <b>Yancheng Li</b><br />
+      <sub>Creative Assets<br />Specialist<br /><i>(创意资产专家)</i></sub>
     </td>
   </tr>
 </table>
